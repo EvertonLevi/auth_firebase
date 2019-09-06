@@ -1,0 +1,6 @@
+autenticação
+https://medium.com/@kris101/email-authentication-with-react-native-and-firebase-9670609a3557
+
+navigation
+https://blog.rocketseat.com.br/react-navigation-react-native/
+
